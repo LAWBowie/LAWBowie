@@ -1,39 +1,41 @@
-Hi, My name is Luke.
+# Luke Bowman
 
-I am 25 years old, and currently live in London. I am South African, but have the right to stay and work in the UK.
+**`Digital Craftsman (Student/Developer)`**
 
-I am a final year BSc (Hons) Computing and IT student, having done the following modules at University:
+I am 25 years old, and currently live in London. I am South African, but have the right to stay and work in the UK. I have been working and studying full time for the last 4 years and have an Honours degree in Computing and IT. I am obsessed with learning, and am on a journey to build a succesful career as a software developer. At this point in time my biggest interests are AI and crypto.
+
+---
+
+
+### Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode)](https://skillicons.dev)
+
+#
+<details>
+ <summary><h3>My Coding Journey</h3></summary>
 
 1st Year:
 
-• Technologies in practice (DISTINCTION)
-
-• Introduction to computing and technology 1 (DISTINCTION)
-
-• Introduction to computing and technology 2 (DISTINCTION)
-
-• Mathematics (DISTINCTION)
+• Technologies in practice (DISTINCTION)<br>
+• Introduction to computing and technology 1 (DISTINCTION)<br>
+• Introduction to computing and technology 2 (DISTINCTION)<br>
+• Mathematics (DISTINCTION)<br>
 
 2nd Year:
 
-• Algorithms, data structures, and computability (GRADE 2 PASS: 75%)
-
-• Web technologies (GRADE 2 PASS: 82%)
-
-• Managing IT (GRADE 2 PASS: 76%)
-
-• Object-oriented Java programming (GRADE 2 PASS: 81%)
+• Algorithms, data structures, and computability (GRADE 2 PASS: 75%)<br>
+• Web technologies (GRADE 2 PASS: 82%)<br>
+• Managing IT (GRADE 2 PASS: 76%)<br>
+• Object-oriented Java programming (GRADE 2 PASS: 81%)<br>
 
 3rd year: 
 
-• Software Engineering
-
-• Web, mobile, and cloud technologies
-
-• Data management and analysis
-
-• The computing and IT project
-
+• Software Engineering<br>
+• Web, mobile, and cloud technologies<br>
+• Data management and analysis<br>
+• The computing and IT project<br>
+</details>
 
 
 <!---
