@@ -7,29 +7,29 @@ I am 25 years old, and currently live in London. I am South African, but have th
 ---
 
 
-### Languages and Tools
+### LANGUAGES AND TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode)](https://skillicons.dev)
 
 #
 <details>
- <summary><h3>My Coding Journey</h3></summary>
+ <summary><h3>MY CODING JOURNEY</h3></summary>
 
-1st Year:
+**`1ST YEAR`**
 
 • Technologies in practice (DISTINCTION)<br>
 • Introduction to computing and technology 1 (DISTINCTION)<br>
 • Introduction to computing and technology 2 (DISTINCTION)<br>
 • Mathematics (DISTINCTION)<br>
 
-2nd Year:
+**`2ND YEAR`**
 
 • Algorithms, data structures, and computability (GRADE 2 PASS: 75%)<br>
 • Web technologies (GRADE 2 PASS: 82%)<br>
 • Managing IT (GRADE 2 PASS: 76%)<br>
 • Object-oriented Java programming (GRADE 2 PASS: 81%)<br>
 
-3rd year: 
+**`3RD YEAR`**
 
 • Software Engineering<br>
 • Web, mobile, and cloud technologies<br>
