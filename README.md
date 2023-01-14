@@ -13,7 +13,7 @@ I am 25 years old, and currently live in London. I am South African, but have th
 
 #
 <details>
- <summary><h3>MY CODING JOURNEY</h3></summary>
+ <summary><h3>MY CODING JOURNEY</h3></summary><br>
 
 **`1ST YEAR`**
 
@@ -35,6 +35,16 @@ I am 25 years old, and currently live in London. I am South African, but have th
 • Web, mobile, and cloud technologies<br>
 • Data management and analysis<br>
 • The computing and IT project<br>
+ 
+ Outside of University I've undertaken various courses and have earned a couple certifications along the way.<br>
+ 
+ **`CERTIFICATIONS`**
+ 
+ • Microsoft Certified: Power Platform Fundamentals<br>
+ • CodeAcademy: Blockchain with Python<br>
+ • FreeCodeCamp: Responsive Web Design<br>
+ • Cisco: Networking Essentials<br>
+ 
 </details>
 
 
