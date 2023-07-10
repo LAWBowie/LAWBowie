@@ -17,17 +17,17 @@ I am 25 years old, and currently live in London. I am South African, but have th
 
 **`1ST YEAR`**
 
-• Technologies in practice (DISTINCTION)<br>
-• Introduction to computing and technology 1 (DISTINCTION)<br>
-• Introduction to computing and technology 2 (DISTINCTION)<br>
-• Mathematics (DISTINCTION)<br>
+• Technologies in practice <br>
+• Introduction to computing and technology 1 <br>
+• Introduction to computing and technology 2 <br>
+• Mathematics <br>
 
 **`2ND YEAR`**
 
-• Algorithms, data structures, and computability (GRADE 2 PASS: 75%)<br>
-• Web technologies (GRADE 2 PASS: 82%)<br>
-• Managing IT (GRADE 2 PASS: 76%)<br>
-• Object-oriented Java programming (GRADE 2 PASS: 81%)<br>
+• Algorithms, data structures, and computability <br>
+• Web technologies)<br>
+• Managing IT <br>
+• Object-oriented Java programming <br>
 
 **`3RD YEAR`**
 
@@ -36,14 +36,13 @@ I am 25 years old, and currently live in London. I am South African, but have th
 • Data management and analysis<br>
 • The computing and IT project<br>
  
- Outside of University I've undertaken various courses and have earned a couple certifications along the way.<br>
- 
  **`CERTIFICATIONS`**
  
  • Microsoft Certified: Power Platform Fundamentals<br>
  • CodeAcademy: Blockchain with Python<br>
  • FreeCodeCamp: Responsive Web Design<br>
  • Cisco: Networking Essentials<br>
+ • FreeCodeCamp: Front End Libraries<br>
  
 </details>
 
