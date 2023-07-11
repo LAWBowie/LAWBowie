@@ -2,14 +2,14 @@
 
 **`Digital Craftsman (Student/Developer)`**
 
-• 25 years old
-• Originally from South Africa
-• Currently residing in London
-• Have the legal right to live and work in the UK
-• Spent last 4 years working and studying full-time
-• Hold an Honours degree in Computing and IT
-• Highly passionate about learning
-• Pursuing a career in software development
+• 25 years old <br>
+• Originally from South Africa <br>
+• Currently residing in London <br>
+• Have the legal right to live and work in the UK <br>
+• Spent last 4 years working and studying full-time <br>
+• Hold an Honours degree in Computing and IT <br>
+• Highly passionate about learning <br>
+• Pursuing a career in software development <br>
 
 
 ---
