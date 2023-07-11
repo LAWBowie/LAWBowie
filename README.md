@@ -2,7 +2,15 @@
 
 **`Digital Craftsman (Student/Developer)`**
 
-I am 25 years old, and currently live in London. I am South African, but have the right to stay and work in the UK. I have been working and studying full time for the last 4 years and have an Honours degree in Computing and IT. I am obsessed with learning, and am on a journey to build a succesful career as a software developer. At this point in time my biggest interests are AI and crypto.
+• 25 years old
+• Originally from South Africa
+• Currently residing in London
+• Have the legal right to live and work in the UK
+• Spent last 4 years working and studying full-time
+• Hold an Honours degree in Computing and IT
+• Highly passionate about learning
+• Pursuing a career in software development
+
 
 ---
 
