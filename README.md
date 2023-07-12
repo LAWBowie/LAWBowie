@@ -16,7 +16,7 @@
 
 
 ### LANGUAGES AND TOOLS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode,react,bootstrap,codedpen,discord,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode,react,bootstrap,codepen,discord,figma)](https://skillicons.dev)
 
 #
 <details>
