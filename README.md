@@ -32,7 +32,7 @@
 **`2ND YEAR`**
 
 • Algorithms, data structures, and computability <br>
-• Web technologies)<br>
+• Web Technologies<br>
 • Managing IT <br>
 • Object-oriented Java programming <br>
 
