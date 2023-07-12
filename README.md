@@ -16,14 +16,7 @@
 
 
 ### LANGUAGES AND TOOLS
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode,react,bootstrap,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,github,linkedin,vscode,react,bootstrap,codedpen,discord,figma)](https://skillicons.dev)
 
 #
 <details>
