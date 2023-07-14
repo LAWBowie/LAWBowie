@@ -3,7 +3,7 @@
 **`Digital Craftsman (Student/Developer)`**
 
 • 25 years old <br>
-• Originally from South Africa <br>
+• Born in South Africa <br>
 • Currently residing in London <br>
 • Have the legal right to live and work in the UK <br>
 • Spent last 4 years working and studying full-time <br>
