@@ -1,6 +1,6 @@
 # Luke Bowman
 
-**`Digital Craftsman (Student/Developer)`**
+**`Software Developer`**
 
 • 25 years old <br>
 • Born in South Africa <br>
