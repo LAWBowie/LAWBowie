@@ -38,7 +38,7 @@
 
 **`3RD YEAR`**
 
-• Software Engineering<br>
+• Software Engineering (HockeyHub)<br>
 • Web, mobile, and cloud technologies<br>
 • Data management and analysis<br>
 • The computing and IT project<br>
