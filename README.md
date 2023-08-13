@@ -50,7 +50,7 @@
  • FreeCodeCamp: Responsive Web Design<br>
  • Cisco: Networking Essentials<br>
  • FreeCodeCamp: Front End Libraries<br>
- • Udemy: 100 Projects <br>
+ • Udemy: 100 Projects In 100 Days <br>
  
  
 </details>
