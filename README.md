@@ -55,7 +55,7 @@
  
 </details>
 
-## My
+## My Socials 
 
 
 <!---
