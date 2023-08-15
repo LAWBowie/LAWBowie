@@ -5,7 +5,7 @@
 • 25 years old <br>
 • Born in South Africa <br>
 • Currently residing in London <br>
-• Have the legal right to live and work in the UK ()<br>
+• Have the legal right to live and work in the UK (Indefinite Leave)<br>
 • Spent last 4 years working and studying full-time <br>
 • Hold an Honours degree in Computing and IT <br>
 • Highly passionate about learning <br>
