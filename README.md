@@ -10,6 +10,7 @@
 • Hold an Honours degree in Computing and IT <br>
 • Highly passionate about learning <br>
 • Pursuing a career in software development <br>
+• Consultant Software Developer at Brightgen <br>
 
 
 ---
