@@ -56,6 +56,7 @@
 </details>
 
 ## My Socials 
+ • Udemy: 100 Projects In 100 Days <br>
 
 
 <!---
