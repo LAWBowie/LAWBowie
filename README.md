@@ -57,7 +57,7 @@
 
 ## My Socials 
  • Twitter:  <br>
- • Twitter:  <br>
+ • Linkedin:  <br>
 
 
 <!---
