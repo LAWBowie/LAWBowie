@@ -7,7 +7,7 @@
 • Currently residing in London <br>
 • Have the legal right to live and work in the UK (Indefinite Leave To Remain)<br>
 • Spent last 4 years working and studying full-time <br>
-• Hold an Honours degree in Computing and IT <br>
+• Honours degree in Computing and IT <br>
 • Highly passionate about learning <br>
 • Consultant Software Developer at Brightgen <br>
 
