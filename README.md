@@ -56,7 +56,7 @@
 </details>
 
 ## My Socials 
- • Twitter: LAWB <br>
+ • Twitter: LAWBowman <br>
  • Linkedin:  <br>
 
 
