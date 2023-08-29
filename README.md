@@ -57,7 +57,7 @@
 
 ## My Socials 
  • Twitter: LAWBowman <br>
- • Linkedin:  <br>
+ • Linkedin: Luke  <br>
 
 
 <!---
