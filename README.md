@@ -9,7 +9,7 @@
 • Spent last 4 years working and studying full-time <br>
 • Honours degree in Computing and IT <br>
 • Highly passionate about learning <br>
-• Consultant Software Developer at Brightgen - Salesforce & A <br>
+• Consultant Software Developer at Brightgen - Salesforce & Apex <br>
 
 
 ---
